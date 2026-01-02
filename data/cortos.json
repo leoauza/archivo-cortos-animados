@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "titulo": "Neighbours",
+    "anio": 1952,
+    "director": "Norman McLaren",
+    "pais": "Canadá",
+    "tecnica": "Pixilation",
+    "descripcion": "Un corto tan simple como violento en su idea: dos vecinos y una escalera que se transforma en campo de batalla. Humor seco y crítica directa, sin adornos.",
+    "imagen": "neighbours.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Dimensions of Dialogue",
+    "anio": 1982,
+    "director": "Jan Švankmajer",
+    "pais": "Checoslovaquia",
+    "tecnica": "Stop-motion",
+    "descripcion": "Una conversación imposible donde los objetos, los cuerpos y el lenguaje se devoran entre sí. Más experiencia sensorial que relato.",
+    "imagen": "dimensions.jpg"
+  }
+]

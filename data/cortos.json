@@ -42,7 +42,7 @@
 {
   "id": 5,
   "titulo": "Vicent",
-  "anio": ,
+  "anio": 1982,
   "director": "Tim Burton",
   "pais": "Estados Unidos",
   "tecnica": "Stop-motion",
@@ -70,3 +70,4 @@
   "imagen": "the_hand.jpg"
 }  
 ]
+

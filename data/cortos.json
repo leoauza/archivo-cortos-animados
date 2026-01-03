@@ -41,7 +41,7 @@
 },
 {
   "id": 5,
-  "titulo": "Vicent",
+  "titulo": "Vincent",
   "anio": 1982,
   "director": "Tim Burton",
   "pais": "Estados Unidos",
@@ -70,4 +70,5 @@
   "imagen": "the_hand.jpg"
 }  
 ]
+
 

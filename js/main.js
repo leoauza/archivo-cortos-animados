@@ -13,8 +13,7 @@ fetch('data/cortos.json')
       `;
       contenedor.appendChild(item);
     });
-    .catch(error => {
-  console.error('No se pudieron cargar los cortos:', error);
-});
-
-
+  })
+  .catch(error => {
+    console.error('No se pudieron cargar los cortos:', error);
+  });

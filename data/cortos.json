@@ -18,5 +18,55 @@
     "tecnica": "Stop-motion",
     "descripcion": "Una conversación imposible donde los objetos, los cuerpos y el lenguaje se devoran entre sí. Más experiencia sensorial que relato.",
     "imagen": "dimensions.jpg"
-  }
+  },
+{
+  "id": 3,
+  "titulo": "Něco z Alenky",
+  "anio": 1988,
+  "director": "Jan Švankmajer",
+  "pais": "Checoslovaquia",
+  "tecnica": "Stop-motion / objetos",
+  "descripcion": "Una Alicia filmada como pesadilla doméstica. Muñecos, animales disecados y objetos cotidianos se animan sin intención de agradar. Más que una adaptación, es una experiencia física y hostil.",
+  "imagen": "neco_z_alenky.jpg"
+},
+{
+  "id": 4,
+  "titulo": "A Fairy Tale About a Moonlight",
+  "anio": 1968,
+  "director": "Karel Zeman",
+  "pais": "Checoslovaquia",
+  "tecnica": "Animación híbrida / recortes",
+  "descripcion": "Un cuento visual donde la luna deja de ser símbolo y se vuelve objeto. Zeman construye un mundo artesanal, ingenuo solo en apariencia, donde la fantasía funciona como mecanismo narrativo, no como refugio.",
+  "imagen": "moonlight.jpg"
+},
+{
+  "id": 5,
+  "titulo": "Vicent",
+  "anio": ,
+  "director": "Tim Burton",
+  "pais": "Estados Unidos",
+  "tecnica": "Stop-motion",
+  "descripcion": "Un retrato de la infancia como rareza y aislamiento. Sombras, voz en off y fantasía gótica para hablar de no encajar.",
+  "imagen": "vicent.jpg"
+},
+  {
+  "id": 6,
+  "titulo": "The Sandman",
+  "anio": 1991,
+  "director": "Paul Berry",
+  "pais": "Estados Unidos",
+  "tecnica": "Stop-motion",
+  "descripcion": "Una pesadilla infantil donde el sueño no trae descanso sino amenaza. Muñecos frágiles, cuerpos rotos y una atmósfera opresiva que convierte la infancia en un territorio de miedo.",
+  "imagen": "the_sandman.jpg"
+},
+{
+  "id": 7,
+  "titulo": "The Hand",
+  "anio": 1965,
+  "director": "Jiří Trnka",
+  "pais": "Checoslovaquia",
+  "tecnica": "Stop-motion",
+  "descripcion": "Una alegoría oscura sobre el control y la obediencia. Un artista acosado por una mano autoritaria que exige sumisión. Fantasía simple en apariencia, profundamente política.",
+  "imagen": "the_hand.jpg"
+}  
 ]

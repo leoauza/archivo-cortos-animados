@@ -4,7 +4,7 @@ fetch('data/cortos.json')
     const contenedor = document.getElementById('listado');
 
     cortos.forEach(corto => {
-      const item = document.createElement('div');
+      const item = document.createElement('article');
       item.innerHTML = `
         <h2>${corto.titulo} (${corto.anio})</h2>
         <p><strong>${corto.director}</strong> — ${corto.tecnica}</p>
@@ -13,4 +13,5 @@ fetch('data/cortos.json')
       `;
       contenedor.appendChild(item);
     });
+
   });

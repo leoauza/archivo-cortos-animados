@@ -17,5 +17,4 @@ fetch('data/cortos.json')
   console.error('No se pudieron cargar los cortos:', error);
 });
 
-  });
 

@@ -30,6 +30,12 @@ main {
   margin-top: 40px;
 }
 
+.corto {
+  padding: 1.2rem 0;
+  border-bottom: 1px solid #ddd;
+}
+
 a {
   text-decoration: none;
   bac
+

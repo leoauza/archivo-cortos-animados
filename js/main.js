@@ -5,15 +5,26 @@ fetch('data/cortos.json')
 
     cortos.forEach(corto => {
       const item = document.createElement('article');
-      item.innerHTML = `
-        <h2>${corto.titulo} (${corto.anio})</h2>
-        <p><strong>${corto.director}</strong> — ${corto.tecnica}</p>
-        <p>${corto.descripcion}</p>
-        <hr>
-      `;
+      item.classList.add('card-corto');
+
+item.innerHTML = `
+  <div class="card-img">
+    <img src="img/placeholder.png" alt="Poster de ${corto.titulo}">
+  </div>
+
+  <div class="card-info">
+    <h3>${corto.titulo}</h3>
+    <p class="meta">
+      ${corto.anio} · ${corto.director}
+    </p>
+    <p class="tecnica">${corto.tecnica}</p>
+  </div>
+`;
+
       contenedor.appendChild(item);
     });
   })
   .catch(error => {
     console.error('No se pudieron cargar los cortos:', error);
   });
+

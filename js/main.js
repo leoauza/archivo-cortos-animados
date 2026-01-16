@@ -9,7 +9,11 @@ fetch('data/cortos.json')
 
 item.innerHTML = `
   <div class="card-img">
-    <img src="img/placeholder.png" alt="Poster de ${corto.titulo}">
+<img 
+  src="img/cortos/${corto.slug}.jpg" 
+  alt="Poster de ${corto.titulo}"
+  onerror="this.src='img/placeholder.png'"
+>
   </div>
 
   <div class="card-info">
@@ -27,4 +31,5 @@ item.innerHTML = `
   .catch(error => {
     console.error('No se pudieron cargar los cortos:', error);
   });
+
 

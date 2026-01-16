@@ -7,7 +7,7 @@
     "pais": "Canadá",
     "tecnica": "Pixilation",
     "descripcion": "Un corto tan simple como violento en su idea: dos vecinos y una escalera que se transforma en campo de batalla. Humor seco y crítica directa, sin adornos.",
-    "slug": "neighbours-1952.webp"
+    "slug": "neighbours-1952"
   },
   {
     "id": 2,
@@ -70,3 +70,4 @@
   "slug": "the_hand.jpg"
 }  
 ]
+

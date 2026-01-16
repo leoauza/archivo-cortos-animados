@@ -7,7 +7,7 @@
     "pais": "Canadá",
     "tecnica": "Pixilation",
     "descripcion": "Un corto tan simple como violento en su idea: dos vecinos y una escalera que se transforma en campo de batalla. Humor seco y crítica directa, sin adornos.",
-    "imagen": "neighbours.jpg"
+    "slug": "neighbours-1952.webp"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "pais": "Checoslovaquia",
     "tecnica": "Stop-motion",
     "descripcion": "Una conversación imposible donde los objetos, los cuerpos y el lenguaje se devoran entre sí. Más experiencia sensorial que relato.",
-    "imagen": "dimensions.jpg"
+    "slug": "dimensions.jpg"
   },
 {
   "id": 3,
@@ -27,7 +27,7 @@
   "pais": "Checoslovaquia",
   "tecnica": "Stop-motion / objetos",
   "descripcion": "Una Alicia filmada como pesadilla doméstica. Muñecos, animales disecados y objetos cotidianos se animan sin intención de agradar. Más que una adaptación, es una experiencia física y hostil.",
-  "imagen": "neco_z_alenky.jpg"
+  "slug": "neco_z_alenky.jpg"
 },
 {
   "id": 4,
@@ -37,7 +37,7 @@
   "pais": "Checoslovaquia",
   "tecnica": "Animación híbrida / recortes",
   "descripcion": "Un cuento visual donde la luna deja de ser símbolo y se vuelve objeto. Zeman construye un mundo artesanal, ingenuo solo en apariencia, donde la fantasía funciona como mecanismo narrativo, no como refugio.",
-  "imagen": "moonlight.jpg"
+  "slug": "moonlight.jpg"
 },
 {
   "id": 5,
@@ -47,7 +47,7 @@
   "pais": "Estados Unidos",
   "tecnica": "Stop-motion",
   "descripcion": "Un retrato de la infancia como rareza y aislamiento. Sombras, voz en off y fantasía gótica para hablar de no encajar.",
-  "imagen": "vicent.jpg"
+  "slug": "vicent.jpg"
 },
   {
   "id": 6,
@@ -57,7 +57,7 @@
   "pais": "Estados Unidos",
   "tecnica": "Stop-motion",
   "descripcion": "Una pesadilla infantil donde el sueño no trae descanso sino amenaza. Muñecos frágiles, cuerpos rotos y una atmósfera opresiva que convierte la infancia en un territorio de miedo.",
-  "imagen": "the_sandman.jpg"
+  "slug": "the_sandman.jpg"
 },
 {
   "id": 7,
@@ -67,9 +67,6 @@
   "pais": "Checoslovaquia",
   "tecnica": "Stop-motion",
   "descripcion": "Una alegoría oscura sobre el control y la obediencia. Un artista acosado por una mano autoritaria que exige sumisión. Fantasía simple en apariencia, profundamente política.",
-  "imagen": "the_hand.jpg"
+  "slug": "the_hand.jpg"
 }  
 ]
-
-
-
